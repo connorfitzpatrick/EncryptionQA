@@ -2,6 +2,7 @@
 AES file encryptor implemented with Python
 
 <b>Click image to see YouTube demo</b>
+
 [![Link to game preview](http://i3.ytimg.com/vi/xYBbSoli2k0/hqdefault.jpg)](https://youtu.be/xYBbSoli2k0)
 
 This project is a text file encryptor that I made in my last year of school. It utilizes the AES Encryption algorithm to transform inputted text. 
